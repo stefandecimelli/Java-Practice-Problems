@@ -5,5 +5,5 @@ Most of these come from [LeetCode](https://leetcode.com/u/stefandecimelli/)
 
 ## Array / String
 
-- [mergesortarray](/mergesortarray) 
-- [removeelement](/removeelement)
+1. [mergesortarray](/mergesortarray) 
+2. [removeelement](/removeelement)
