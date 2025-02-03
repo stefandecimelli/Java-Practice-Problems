@@ -3,7 +3,7 @@ For Java.
 
 Most of these come from [LeetCode](https://leetcode.com/u/stefandecimelli/)
 
-## Aray / String
+## Array / String
 
-- [mergesortarray](/mergesortarray)
+- [mergesortarray](/mergesortarray) 
 - [removeelement](/removeelement)
