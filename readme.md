@@ -1,4 +1,4 @@
-# Practise Problems
+# Practice Problems
 For Java. 
 
 Most of these come from [LeetCode](https://leetcode.com/u/stefandecimelli/)
