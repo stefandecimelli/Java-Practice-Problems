@@ -2,7 +2,7 @@ package com.decimelli.interviewquestion;
 
 /**
  * This one is a lot more optimized than the first Solution.
- * There are many less shifts. 
+ * Rather than using shifts, we just set the value to the next int available. 
  */
 public class Solution2 {
 
