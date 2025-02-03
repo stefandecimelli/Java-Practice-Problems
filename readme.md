@@ -5,5 +5,6 @@ Most of these come from [LeetCode](https://leetcode.com/u/stefandecimelli/)
 
 ## Array / String
 
-1. [mergesortarray](/mergesortarray) 
-2. [removeelement](/removeelement)
+88. [Merge Sorted Array](/mergesortarray) 
+27. [Remove Element](/removeelement)
+26. [Remove Duplicates From Sorted Array](/removeduplicatesfromsortedarray)
