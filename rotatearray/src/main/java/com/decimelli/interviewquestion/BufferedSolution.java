@@ -1,7 +1,7 @@
 package com.decimelli.interviewquestion;
 
 /**
- * Leetcode submission: 2ms (beats 51.36%), 57.16MB (beats 84.80%)
+ * Leetcode submission: 1ms (beats 51.41%), 57.16MB (beats 84.80%)
  */
 public class BufferedSolution implements Solution {
 
