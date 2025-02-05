@@ -11,3 +11,4 @@ Most of these come from [LeetCode](https://leetcode.com/u/stefandecimelli/)
 - [Remove Duplicates From Sorted Array 2](/removeduplicatesfromsortedarray2), Array, Two Pointer
 - [Majority Element](/majorityelement), Array, Hash Table, Divide & Conquer, Sorting, Counting
 - [Rotate Array](/rotatearray), Array, Math, Two Pointers
+- [Best Time to Buy and Sell Stock](/besttimetobuyandsellstock), Array, Dynamic programming
